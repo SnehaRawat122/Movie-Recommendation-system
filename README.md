@@ -19,8 +19,9 @@ The system suggests movies to users based on viewing patterns and user similarit
 - `movie_recommendation.ipynb` → main notebook
 - `README.md` → project documentation
 
-  <img width="770" height="332" alt="image" src="https://github.com/user-attachments/assets/c87da434-0afb-405d-b356-8dce74dd2c95" />
-
-
-## 📊 Results
+ 📊 Results
 Achieved good recommendation accuracy and provided meaningful suggestions.
+
+searching recoomened movies 
+<img width="770" height="332" alt="image" src="https://github.com/user-attachments/assets/11589b70-7766-4cd6-a65b-3fad5212408c" />
+
