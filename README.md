@@ -12,7 +12,7 @@ The system suggests movies to users based on viewing patterns and user similarit
 🚀 Steps
 1. Data Preprocessing
 2. Exploratory Data Analysis (EDA)
-3. Model Building (Collaborative Filtering)
+3. Model Building (Content based- Filtering)
 4. Evaluation & Results
 
 📂 Files
